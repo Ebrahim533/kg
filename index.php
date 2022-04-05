@@ -111,7 +111,7 @@
                             <div class="col-lg-3 col-md-6 single-item wow fadeInUp" data-wow-delay="300ms">
                                 <div class="item">
                                     <div class="icon">
-                                        <i class="flaticon-results"></i>
+                                        <img src="assets/img/animate/ar01icon.gif" class="an-gif" alt="">
                                     </div>
                                     <div class="content">
                                         <h4>EK Architect</h4>
@@ -127,7 +127,7 @@
                             <div class="col-lg-3 col-md-6 single-item wow fadeInUp" data-wow-delay="400ms">
                                 <div class="item">
                                     <div class="icon">
-                                        <i class="flaticon-rocket"></i>
+                                     <img src="assets/img/animate/ar02icon.gif" class="an-gif" alt="">
                                     </div>
                                     <div class="content">
                                         <h4>Education</h4>

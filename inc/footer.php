@@ -8,7 +8,7 @@
                         <div class="f-item about">
                             <h4 class="widget-title">About Us</h4>
                             <p>
-                                Required honoured trifling eat pleasure man relation. Assurance yet bed was improving furniture man. Distrusts delighted Excuse few the remain highly feebly add people manner say. It high at my mind by roof. 
+                             KG International Limited was formed on 11th February, 2010. During these 11+ years we have developed and delivered a lot of software. Our Sister Concern Founders of EK Technology & Bright View Council have created and held successful IT companies in US [2003], India [2019] & Bangladesh [2022] 
 
                             </p>
                             <div class="social">
@@ -107,7 +107,7 @@
             <div class="container">
                 <div class="row align-center">
                     <div class="col-lg-4">
-                        <p>&copy; Copyright 2021. All Rights Reserved</p>
+                        <p>&copy; Copyright 2021. EK Technology</p>
                     </div>
                     <div class="col-lg-4 text-center logo">
                         <a href="#"><img src="../assets/img/KG2 Logo light.png" alt="Logo"></a>
